@@ -1,0 +1,7 @@
+#+TITLE: Q8c - Catchup
+#+AUTHOR: Jack Maguire
+#+DESCRIPTION: Skills Catchup Qs
+
+* CAD Advantages
+
+There are lots of advantages of CAD as opposed to traditional drawings. Firstly, is the fact that whilst traditional drawings are easily messed up by a stray rubbing out, or an accidental pencil mark, CAD cannot be accidentally destroyed in the same way, and even if it is, we can always undo any mistakes. Secondly, is that it is much easier to change things that were once thought final. This is because, in Solidworks for example, if we decide that a wheel is too big, or if certain parts need to change dimensions, we can easily change the dimensions, and the changes will be reflected in the drawings, whereas in traditional pencil and paper, if we change one thing, we may have to change lots of other things manually. Third, is that if we are using CAD software, it can often provide a preview far higher-definition than the mind's eye, and we can look at alternative angles for the product. Finally, is the collaborative aspect. Lots of CAD softwares export to common formats designed in collaboration with CAM factory owners to ensure that no mistakes are made in translating the drawing to a finished part.

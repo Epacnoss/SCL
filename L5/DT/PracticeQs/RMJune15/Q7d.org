@@ -1,0 +1,7 @@
+#+TITLE: Q7d - Catchup
+#+AUTHOR: Jack Maguire
+#+DESCRIPTION: Skills Catchup Qs 2.0
+
+* Discuss  the  environmental  implications  of  packaging  and  transporting  large,  assembled  products around the world
+
+There are lots of environmental implications to do with packaging and transporting large products around the world. Firstly, is that if they exist, they need to be transported, which causes environmental damage all on it's own. Larger items also fit together less tightly, meaning more fuel is wasted per item shipped (some costs are on every shipment that are there regardless of cargo, such as needing to carry the crew and their supplies, so the more we can carry at once the better). Also - if demand exists, captialism ensues supply will come. Next, continuing on the packaging, large products such as these ones are often delicate and need to be carefully packed to ensure it isn't damaged in transport, and the packing is normally a mix of cardboard, wood, bubble wrap and packing peanuts. Of those, it is hard to reuse the wood, even if it can be made into MDF, the cardboard is recyclable, and the plastic of the bubble wrap and packing peanuts all have to be re-melted. Next, is an economic point. Even if the product ends up being cheaper to us in the short-term (due to cheaper labour in SE Asia), it may be more expensive in the long run as those countries often don't have as strict environmental regulations, instead being happy to receive the tax from the workers' salaries.
