@@ -1,0 +1,47 @@
+#+TITLE: Bonding Test Redo
+#+AUTHOR: Jack Maguire
+#+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
+
+* 1
+** a)
+A Covalent bond is when two non-metal atoms share valence electrons for each to gain a full outer shell. The Bond comes from the electrostatic attraction forces from the nuclei and the elctrons.
+** b)
+Covalent bonds are strong.
+* 2
+** a)
+SO_{2}, NH_{3}, P_{2}O_{5}
+** b)
+All of these molecules consist of exclusively Non-Metals.
+* 3
+** a)
+[[./NH3.png]]
+** b
+[[./CO2.png]]
+* 4
+In a Covalent Bond, the atoms are held together by the electrostatic forces coming from the nuclei and the electrons.
+* 5
+** a)
+In Diamond and Graphite, each atom is bonded directly to every other atom, which means that to turn it to a liquid, gas or plasma we must break every one of the strong bonds.
+** b)
+Carbon has 4 valence electrons, meaning that to gain a full outer shell, it needs 4 bonds. In a Diamond, each Carbon is connected to 4 others, which means the structure ends up being very strong and with high melting and boiling points. However, this means that there are no mobile charge carriers so Diamond is an insulator. In Graphite however, each Carbon is only bonded to 3 others, and to fill the gap we have lots of delocalised electrons which can act as mobile charge carriers, meaning that Graphite is a conductor.
+** c)
+Also, in Graphite, each cation is bonded to 3 others in it's '/layer/', but if each is only bonded to others in it's layer, it only is weakly bonded via delocalised electrons to other layers. This means that the layers can easily slide over each other such as in pencils, where a person applies pressure and thin layers of graphite slide onto the paper.
+* 6
+** a)
+In a Covalent Bond, the molecules are only held together by weak intermolecular forces, meaning that it is easier to break the bonds so there are lower melting and boiling points.
+** b)
+In a Covalent Bond, since each molecule has a full outer shell, there are no mobile charge carriers meaning that we cannot conduct electricity.
+* 7
+** a)
+When the two atoms come near each other, the magnesium gives over one of it's electrons to the flourine, and they both now have full outer shells, but they are both now ions with charges (the flourine is negative 1, and the magnesium is positive 1). The Intermolecular forces now hold these two together.
+** b)
+Na^{+}
+** c)
+O^{2-}
+** d)
+Cl^{-}
+* 8
+** a)
+In Metallic Bonds, the cations are arranged in a similar way to Graphite, in that they are composed of layers which can slide over each other. This is because all the cations are attracted weakly to other cations on their layers by the delocalised electrons and the electrostatic forces.
+** b)
+The delocalised electrons can act as mobile charge carriers to conduct electricity.
