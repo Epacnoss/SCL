@@ -1,0 +1,41 @@
+#+TITLE: Half Term Notes
+#+AUTHOR: Jack Maguire
+#+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
+
+
+* Magnetic Materials
+| Magnetic | Not       |
+|----------+-----------|
+| Iron     | Copper    |
+| Nickel   | Aluminium |
+| Cobalt   | Zinc      |
+
+ - Mainly, just Iron, Cobalt and Nickel, plus their alloys.
+ - Iron is Fe, Cobalt Co, and Nickel Ni.
+   + One example alloy is steel with Carbon, Iron and Tin.
+   + Or Neodynium with Boron, Neodynium and Iron.
+- Iron has very magnetic atoms, and they all line up in the same way to make a magnetic solid.
+- Chromium has very magnetic atoms, but they don't line up or make a magnetic solid.
+* Laws
+- Opposite magnetic poles attract.
+- Like magnetic poles repel.
+* General Theory
+- A Permanent Magnet can attract a possibly magnetic solid to create a temporary magnet, and this is induced magnetism.
+- The permanent magnet can magnetise something like a paper clip.
+- This is a magnetically soft material.
+- A Magnetically hard material cannot be induced to be a magnet.
+* Field Lines
+1. You draw a box around a magnet on a piece of paper.
+2. Then place a plotting compass somewhere on the magnet.
+3. Then, place a mark where the plotting compass was pointing.
+4. Place the other end of the plotting compass (where the magnet just was next to) at the mark.
+5. Rinse and repeat until the line either arcs off the paper or comes back to the magnet.
+6. After each cycle draw a line between the dots. Also add arrows from the N end of the magnet to the S end on the lines.
+7. Then repeat all around the magnet.
+8. Maybe use mutliple magnets to get interesting diagrams.
+
+Referring to the question on the ppt, C is the right answer, with lines flowing from N to S, in concentric ovals.
+* Domains
+- In solids full of magnetic atoms, there are lots of domains each with lots of atoms pointing in certain directions, and all atoms in a domain point in the same direction.
+- In a solid like magnetite (an ore of iron), all the domains face the same way which makes the solid magnetic.
+- In a solid like Chromium, even if the atoms are magnetic, the domains don't face the same way, and so the solid is non-magnetic.
