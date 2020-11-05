@@ -1,0 +1,16 @@
+#+TITLE: Hannibal Passage 2
+#+AUTHOR: Jack Maguire
+
+* Main Passage - War with Rome
+Hamilcar waged war in Spain for many years and has conquered many peoples. At last he died fighting. After the death of his father, Hannibal came in the camp. The soldiers were amazed. They say 'Hamilcar has been given back to us as a young man'. For Hannibal had the same appearance, and the same courage. Soon Hannibal was made emprorer, and he himself waged war in Spain. When he began to seige the city of Saguntum, the citizens asked for the help of the Romans, because they were allies. The Romans sent ambassadors (/??????????????????? - misit, and Romani - misit is 3rd person sin, romani is plu; Even if we treat it as a he sent, it just doesn't work for me??/); Hannibal however didn't want to receive them. Therefore the Envoys were sent to Carthige. One of them, as if carrying gifts underneath his toga, he said 'We have brought both peace and war to you. Which of the two are you choosing'. The Carthiginians replied boldly 'Give us the one that you want'. The Roman said 'Therefore we give you war.' And the Carthiginians replied: 'We gladly accept your gift'
+
+* Language Focus - PPs of Verbs
+1) ??? *Morior, Mori, Mortuus Est, -*
+2) ??? *Miror, Mirari, Miratus est*
+3) Sum, Esse, Fui, -
+4) Ferro, Ferrere, Tuli, Latus
+5) volo, velle, volui, -
+6) do, dare, dedi, datus
+
+* E->L
+Hamilcare mortuo, Hannibal, dux factus, cum romanis bellum gerere constituit.

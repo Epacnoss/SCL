@@ -1,0 +1,34 @@
+#+TITLE: Indirect Practice
+#+AUTHOR: Jack Maguire
+
+* Passives Revision Homework
+    - omnes cives clamoribus hostium terrentur.
+    - hic liber saepe legitur.
+    - multae epistulae mihi a matre mittebantur.
+    - milites qui a rege arcessiti erant omnes postea effugerunt.
+    - ianua ab ancilla celeriter aperta est.
+    - vox regis numquam iterum audietur.
+    - equi in castra a servis ducebantur.
+    - multa pecunia huic servo data est.
+    - pueri domum redire iussi sunt.
+    - verba quae a liberto dicta erant ab ómnibus laudata sunt.
+
+** EX:
+    - senex a puella adiutus erat, sed postea iterum discessit.
+    - Translate into Latin: The very loyal slave has been freed by the master.
+
+* My Translation:
+- All of the citizens are terrified by the shouts of the enemies.
+- This book is often read.
+- Many letters were sent to me by the mother.
+- The soldiers who had been summoned by the king all escaped afterwards.
+- The door was quickly been opened by the slave-girl.
+- The voice of the king shall never again be heard.
+- The horses were being lead into the camp by slaves.
+- A lot of money was given to this slave.
+- The boys have been ordered to return home.
+- The words which had been spoken by the freedmen have been praised by all.
+
+** EX:
+- The old man had been helped by the girl, but afterwards he left again.
+- servus fidissimus a domino liberatus est
