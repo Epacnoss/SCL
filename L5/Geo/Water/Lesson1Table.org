@@ -1,0 +1,5 @@
+#+TITLE: Lesson 1 Table
+
+| Water Source       | Explanation                                                                                                                    | Benefits | Drawbacks |
+|--------------------+--------------------------------------------------------------------------------------------------------------------------------+----------+-----------|
+| Boreholes/Aquifers | A well or borehole is a way of tapping into types of aquifers (water-bearing rocks), which gains direct access to groundwater. |          |           |
